@@ -1,0 +1,21 @@
+services:
+  backend:
+    build: ./backend
+    ports:
+      - "8000:8000"
+    env_file: .env
+    environment:
+      APP_MODE: ${APP_MODE:-demo}
+      DATABASE_URL: sqlite:///./goldenhour.db
+      CORS_ORIGINS: http://localhost:5173,http://frontend:80
+    volumes:
+      - ./data:/app/data
+    restart: unless-stopped
+
+  frontend:
+    build: ./frontend
+    ports:
+      - "5173:80"
+    depends_on:
+      - backend
+    restart: unless-stopped

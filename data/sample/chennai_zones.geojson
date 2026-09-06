@@ -1,0 +1,2057 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "zone_id": "Z-001",
+    "neighbourhood": "Ennore",
+    "severity": 62.0,
+    "population_risk": 49.0,
+    "vulnerability": 43.0,
+    "accessibility": 58.0,
+    "confidence": 86.0,
+    "reports_count": 11,
+    "incident_type": "Flooding - Rising Water",
+    "flood_extent": 0.65,
+    "estimated_population": 12206,
+    "golden_hour_score": 56,
+    "priority_class": "Medium",
+    "manual_override": false,
+    "last_updated": "2026-09-06T13:20:51.649535+00:00",
+    "urgency": 55.0,
+    "breakdown": {
+     "populationRisk": 12,
+     "urgency": 13,
+     "vulnerability": 8,
+     "severity": 11,
+     "confidence": 9,
+     "accessibility": 4
+    },
+    "silent_zone": false
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       80.05,
+       13.25
+      ],
+      [
+       80.095,
+       13.25
+      ],
+      [
+       80.095,
+       13.191666666666666
+      ],
+      [
+       80.05,
+       13.191666666666666
+      ],
+      [
+       80.05,
+       13.25
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "zone_id": "Z-002",
+    "neighbourhood": "Manali",
+    "severity": 75.0,
+    "population_risk": 55.0,
+    "vulnerability": 45.0,
+    "accessibility": 46.0,
+    "confidence": 55.0,
+    "reports_count": 4,
+    "incident_type": "Stranded on Rooftop",
+    "flood_extent": 0.85,
+    "estimated_population": 5376,
+    "golden_hour_score": 59,
+    "priority_class": "Medium",
+    "manual_override": false,
+    "last_updated": "2026-09-06T13:20:51.649535+00:00",
+    "urgency": 70.0,
+    "breakdown": {
+     "populationRisk": 13,
+     "urgency": 16,
+     "vulnerability": 8,
+     "severity": 13,
+     "confidence": 6,
+     "accessibility": 3
+    },
+    "silent_zone": false
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       80.095,
+       13.25
+      ],
+      [
+       80.14,
+       13.25
+      ],
+      [
+       80.14,
+       13.191666666666666
+      ],
+      [
+       80.095,
+       13.191666666666666
+      ],
+      [
+       80.095,
+       13.25
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "zone_id": "Z-003",
+    "neighbourhood": "Madhavaram",
+    "severity": 82.0,
+    "population_risk": 59.0,
+    "vulnerability": 42.0,
+    "accessibility": 51.0,
+    "confidence": 76.0,
+    "reports_count": 3,
+    "incident_type": "Medical Emergency",
+    "flood_extent": 0.95,
+    "estimated_population": 10580,
+    "golden_hour_score": 66,
+    "priority_class": "High",
+    "manual_override": false,
+    "last_updated": "2026-09-06T13:20:51.649909+00:00",
+    "urgency": 80.0,
+    "breakdown": {
+     "populationRisk": 14,
+     "urgency": 18,
+     "vulnerability": 8,
+     "severity": 14,
+     "confidence": 8,
+     "accessibility": 4
+    },
+    "silent_zone": false
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       80.14,
+       13.25
+      ],
+      [
+       80.185,
+       13.25
+      ],
+      [
+       80.185,
+       13.191666666666666
+      ],
+      [
+       80.14,
+       13.191666666666666
+      ],
+      [
+       80.14,
+       13.25
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "zone_id": "Z-004",
+    "neighbourhood": "Kolathur",
+    "severity": 67.0,
+    "population_risk": 72.0,
+    "vulnerability": 55.0,
+    "accessibility": 23.0,
+    "confidence": 55.0,
+    "reports_count": 6,
+    "incident_type": "Trapped Under Rubble",
+    "flood_extent": 0.75,
+    "estimated_population": 10488,
+    "golden_hour_score": 67,
+    "priority_class": "High",
+    "manual_override": false,
+    "last_updated": "2026-09-06T13:20:51.649909+00:00",
+    "urgency": 92.0,
+    "breakdown": {
+     "populationRisk": 17,
+     "urgency": 21,
+     "vulnerability": 10,
+     "severity": 11,
+     "confidence": 6,
+     "accessibility": 2
+    },
+    "silent_zone": false
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       80.185,
+       13.25
+      ],
+      [
+       80.23,
+       13.25
+      ],
+      [
+       80.23,
+       13.191666666666666
+      ],
+      [
+       80.185,
+       13.191666666666666
+      ],
+      [
+       80.185,
+       13.25
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "zone_id": "Z-005",
+    "neighbourhood": "Perambur",
+    "severity": 75.0,
+    "population_risk": 75.0,
+    "vulnerability": 63.0,
+    "accessibility": 16.0,
+    "confidence": 58.0,
+    "reports_count": 8,
+    "incident_type": "Property Damage",
+    "flood_extent": 0.85,
+    "estimated_population": 8316,
+    "golden_hour_score": 58,
+    "priority_class": "Medium",
+    "manual_override": false,
+    "last_updated": "2026-09-06T13:20:51.649909+00:00",
+    "urgency": 35.0,
+    "breakdown": {
+     "populationRisk": 18,
+     "urgency": 8,
+     "vulnerability": 11,
+     "severity": 13,
+     "confidence": 6,
+     "accessibility": 1
+    },
+    "silent_zone": false
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       80.22999999999999,
+       13.25
+      ],
+      [
+       80.27499999999999,
+       13.25
+      ],
+      [
+       80.27499999999999,
+       13.191666666666666
+      ],
+      [
+       80.22999999999999,
+       13.191666666666666
+      ],
+      [
+       80.22999999999999,
+       13.25
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "zone_id": "Z-006",
+    "neighbourhood": "Tondiarpet",
+    "severity": 61.0,
+    "population_risk": 71.0,
+    "vulnerability": 51.0,
+    "accessibility": 41.0,
+    "confidence": 80.0,
+    "reports_count": 10,
+    "incident_type": "Flooding - Rising Water",
+    "flood_extent": 0.65,
+    "estimated_population": 8338,
+    "golden_hour_score": 61,
+    "priority_class": "Medium",
+    "manual_override": false,
+    "last_updated": "2026-09-06T13:20:51.649909+00:00",
+    "urgency": 55.0,
+    "breakdown": {
+     "populationRisk": 17,
+     "urgency": 13,
+     "vulnerability": 9,
+     "severity": 10,
+     "confidence": 9,
+     "accessibility": 3
+    },
+    "silent_zone": false
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       80.27499999999999,
+       13.25
+      ],
+      [
+       80.32,
+       13.25
+      ],
+      [
+       80.32,
+       13.191666666666666
+      ],
+      [
+       80.27499999999999,
+       13.191666666666666
+      ],
+      [
+       80.27499999999999,
+       13.25
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "zone_id": "Z-007",
+    "neighbourhood": "Korukkupet",
+    "severity": 33.0,
+    "population_risk": 36.0,
+    "vulnerability": 30.0,
+    "accessibility": 80.0,
+    "confidence": 64.0,
+    "reports_count": 6,
+    "incident_type": "Flooding - Rising Water",
+    "flood_extent": 0.25,
+    "estimated_population": 15581,
+    "golden_hour_score": 45,
+    "priority_class": "Medium",
+    "manual_override": false,
+    "last_updated": "2026-09-06T13:20:51.649909+00:00",
+    "urgency": 55.0,
+    "breakdown": {
+     "populationRisk": 9,
+     "urgency": 13,
+     "vulnerability": 5,
+     "severity": 6,
+     "confidence": 7,
+     "accessibility": 6
+    },
+    "silent_zone": false
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       80.05,
+       13.191666666666666
+      ],
+      [
+       80.095,
+       13.191666666666666
+      ],
+      [
+       80.095,
+       13.133333333333333
+      ],
+      [
+       80.05,
+       13.133333333333333
+      ],
+      [
+       80.05,
+       13.191666666666666
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "zone_id": "Z-008",
+    "neighbourhood": "Royapuram",
+    "severity": 40.0,
+    "population_risk": 65.0,
+    "vulnerability": 43.0,
+    "accessibility": 55.0,
+    "confidence": 68.0,
+    "reports_count": 10,
+    "incident_type": "Stranded on Rooftop",
+    "flood_extent": 0.35,
+    "estimated_population": 19808,
+    "golden_hour_score": 58,
+    "priority_class": "Medium",
+    "manual_override": false,
+    "last_updated": "2026-09-06T13:20:51.649909+00:00",
+    "urgency": 70.0,
+    "breakdown": {
+     "populationRisk": 16,
+     "urgency": 16,
+     "vulnerability": 8,
+     "severity": 7,
+     "confidence": 7,
+     "accessibility": 4
+    },
+    "silent_zone": false
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       80.095,
+       13.191666666666666
+      ],
+      [
+       80.14,
+       13.191666666666666
+      ],
+      [
+       80.14,
+       13.133333333333333
+      ],
+      [
+       80.095,
+       13.133333333333333
+      ],
+      [
+       80.095,
+       13.191666666666666
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "zone_id": "Z-009",
+    "neighbourhood": "Ayanavaram",
+    "severity": 76.0,
+    "population_risk": 54.0,
+    "vulnerability": 46.0,
+    "accessibility": 16.0,
+    "confidence": 79.0,
+    "reports_count": 11,
+    "incident_type": "Medical Emergency",
+    "flood_extent": 0.85,
+    "estimated_population": 2162,
+    "golden_hour_score": 62,
+    "priority_class": "Medium",
+    "manual_override": false,
+    "last_updated": "2026-09-06T13:20:51.649909+00:00",
+    "urgency": 80.0,
+    "breakdown": {
+     "populationRisk": 13,
+     "urgency": 18,
+     "vulnerability": 8,
+     "severity": 13,
+     "confidence": 9,
+     "accessibility": 1
+    },
+    "silent_zone": false
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       80.14,
+       13.191666666666666
+      ],
+      [
+       80.185,
+       13.191666666666666
+      ],
+      [
+       80.185,
+       13.133333333333333
+      ],
+      [
+       80.14,
+       13.133333333333333
+      ],
+      [
+       80.14,
+       13.191666666666666
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "zone_id": "Z-010",
+    "neighbourhood": "Kilpauk",
+    "severity": 63.0,
+    "population_risk": 44.0,
+    "vulnerability": 38.0,
+    "accessibility": 57.0,
+    "confidence": 90.0,
+    "reports_count": 4,
+    "incident_type": "Trapped Under Rubble",
+    "flood_extent": 0.65,
+    "estimated_population": 7330,
+    "golden_hour_score": 63,
+    "priority_class": "Medium",
+    "manual_override": false,
+    "last_updated": "2026-09-06T13:20:51.649909+00:00",
+    "urgency": 92.0,
+    "breakdown": {
+     "populationRisk": 11,
+     "urgency": 21,
+     "vulnerability": 7,
+     "severity": 11,
+     "confidence": 10,
+     "accessibility": 4
+    },
+    "silent_zone": false
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       80.185,
+       13.191666666666666
+      ],
+      [
+       80.23,
+       13.191666666666666
+      ],
+      [
+       80.23,
+       13.133333333333333
+      ],
+      [
+       80.185,
+       13.133333333333333
+      ],
+      [
+       80.185,
+       13.191666666666666
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "zone_id": "Z-011",
+    "neighbourhood": "Egmore",
+    "severity": 75.0,
+    "population_risk": 90.0,
+    "vulnerability": 57.0,
+    "accessibility": 35.0,
+    "confidence": 61.0,
+    "reports_count": 5,
+    "incident_type": "Property Damage",
+    "flood_extent": 0.85,
+    "estimated_population": 11098,
+    "golden_hour_score": 62,
+    "priority_class": "Medium",
+    "manual_override": false,
+    "last_updated": "2026-09-06T13:20:51.649909+00:00",
+    "urgency": 35.0,
+    "breakdown": {
+     "populationRisk": 22,
+     "urgency": 8,
+     "vulnerability": 10,
+     "severity": 13,
+     "confidence": 7,
+     "accessibility": 2
+    },
+    "silent_zone": false
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       80.22999999999999,
+       13.191666666666666
+      ],
+      [
+       80.27499999999999,
+       13.191666666666666
+      ],
+      [
+       80.27499999999999,
+       13.133333333333333
+      ],
+      [
+       80.22999999999999,
+       13.133333333333333
+      ],
+      [
+       80.22999999999999,
+       13.191666666666666
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "zone_id": "Z-012",
+    "neighbourhood": "Chepauk",
+    "severity": 48.0,
+    "population_risk": 54.0,
+    "vulnerability": 36.0,
+    "accessibility": 61.0,
+    "confidence": 89.0,
+    "reports_count": 5,
+    "incident_type": "Flooding - Rising Water",
+    "flood_extent": 0.45,
+    "estimated_population": 21072,
+    "golden_hour_score": 54,
+    "priority_class": "Medium",
+    "manual_override": false,
+    "last_updated": "2026-09-06T13:20:51.649909+00:00",
+    "urgency": 55.0,
+    "breakdown": {
+     "populationRisk": 13,
+     "urgency": 13,
+     "vulnerability": 6,
+     "severity": 8,
+     "confidence": 10,
+     "accessibility": 4
+    },
+    "silent_zone": false
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       80.27499999999999,
+       13.191666666666666
+      ],
+      [
+       80.32,
+       13.191666666666666
+      ],
+      [
+       80.32,
+       13.133333333333333
+      ],
+      [
+       80.27499999999999,
+       13.133333333333333
+      ],
+      [
+       80.27499999999999,
+       13.191666666666666
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "zone_id": "Z-013",
+    "neighbourhood": "Chetpet",
+    "severity": 81.0,
+    "population_risk": 66.0,
+    "vulnerability": 48.0,
+    "accessibility": 46.0,
+    "confidence": 94.0,
+    "reports_count": 2,
+    "incident_type": "Flooding - Rising Water",
+    "flood_extent": 0.85,
+    "estimated_population": 18816,
+    "golden_hour_score": 64,
+    "priority_class": "Medium",
+    "manual_override": false,
+    "last_updated": "2026-09-06T13:20:51.649909+00:00",
+    "urgency": 55.0,
+    "breakdown": {
+     "populationRisk": 16,
+     "urgency": 13,
+     "vulnerability": 9,
+     "severity": 14,
+     "confidence": 10,
+     "accessibility": 3
+    },
+    "silent_zone": true
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       80.05,
+       13.133333333333333
+      ],
+      [
+       80.095,
+       13.133333333333333
+      ],
+      [
+       80.095,
+       13.075
+      ],
+      [
+       80.05,
+       13.075
+      ],
+      [
+       80.05,
+       13.133333333333333
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "zone_id": "Z-014",
+    "neighbourhood": "Nungambakkam",
+    "severity": 62.0,
+    "population_risk": 85.0,
+    "vulnerability": 50.0,
+    "accessibility": 59.0,
+    "confidence": 63.0,
+    "reports_count": 11,
+    "incident_type": "Stranded on Rooftop",
+    "flood_extent": 0.65,
+    "estimated_population": 15666,
+    "golden_hour_score": 67,
+    "priority_class": "High",
+    "manual_override": false,
+    "last_updated": "2026-09-06T13:20:51.649909+00:00",
+    "urgency": 70.0,
+    "breakdown": {
+     "populationRisk": 20,
+     "urgency": 16,
+     "vulnerability": 9,
+     "severity": 11,
+     "confidence": 7,
+     "accessibility": 4
+    },
+    "silent_zone": false
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       80.095,
+       13.133333333333333
+      ],
+      [
+       80.14,
+       13.133333333333333
+      ],
+      [
+       80.14,
+       13.075
+      ],
+      [
+       80.095,
+       13.075
+      ],
+      [
+       80.095,
+       13.133333333333333
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "zone_id": "Z-015",
+    "neighbourhood": "T. Nagar",
+    "severity": 35.0,
+    "population_risk": 66.0,
+    "vulnerability": 51.0,
+    "accessibility": 51.0,
+    "confidence": 43.0,
+    "reports_count": 5,
+    "incident_type": "Medical Emergency",
+    "flood_extent": 0.25,
+    "estimated_population": 20584,
+    "golden_hour_score": 58,
+    "priority_class": "Medium",
+    "manual_override": false,
+    "last_updated": "2026-09-06T13:20:51.649909+00:00",
+    "urgency": 80.0,
+    "breakdown": {
+     "populationRisk": 16,
+     "urgency": 18,
+     "vulnerability": 9,
+     "severity": 6,
+     "confidence": 5,
+     "accessibility": 4
+    },
+    "silent_zone": false
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       80.14,
+       13.133333333333333
+      ],
+      [
+       80.185,
+       13.133333333333333
+      ],
+      [
+       80.185,
+       13.075
+      ],
+      [
+       80.14,
+       13.075
+      ],
+      [
+       80.14,
+       13.133333333333333
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "zone_id": "Z-016",
+    "neighbourhood": "Saidapet",
+    "severity": 34.0,
+    "population_risk": 67.0,
+    "vulnerability": 41.0,
+    "accessibility": 60.0,
+    "confidence": 80.0,
+    "reports_count": 2,
+    "incident_type": "Trapped Under Rubble",
+    "flood_extent": 0.25,
+    "estimated_population": 2570,
+    "golden_hour_score": 63,
+    "priority_class": "Medium",
+    "manual_override": false,
+    "last_updated": "2026-09-06T13:20:51.649909+00:00",
+    "urgency": 92.0,
+    "breakdown": {
+     "populationRisk": 16,
+     "urgency": 21,
+     "vulnerability": 7,
+     "severity": 6,
+     "confidence": 9,
+     "accessibility": 4
+    },
+    "silent_zone": true
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       80.185,
+       13.133333333333333
+      ],
+      [
+       80.23,
+       13.133333333333333
+      ],
+      [
+       80.23,
+       13.075
+      ],
+      [
+       80.185,
+       13.075
+      ],
+      [
+       80.185,
+       13.133333333333333
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "zone_id": "Z-017",
+    "neighbourhood": "Mylapore",
+    "severity": 62.0,
+    "population_risk": 84.0,
+    "vulnerability": 63.0,
+    "accessibility": 36.0,
+    "confidence": 48.0,
+    "reports_count": 5,
+    "incident_type": "Property Damage",
+    "flood_extent": 0.65,
+    "estimated_population": 17630,
+    "golden_hour_score": 58,
+    "priority_class": "Medium",
+    "manual_override": false,
+    "last_updated": "2026-09-06T13:20:51.649909+00:00",
+    "urgency": 35.0,
+    "breakdown": {
+     "populationRisk": 20,
+     "urgency": 8,
+     "vulnerability": 11,
+     "severity": 11,
+     "confidence": 5,
+     "accessibility": 3
+    },
+    "silent_zone": false
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       80.22999999999999,
+       13.133333333333333
+      ],
+      [
+       80.27499999999999,
+       13.133333333333333
+      ],
+      [
+       80.27499999999999,
+       13.075
+      ],
+      [
+       80.22999999999999,
+       13.075
+      ],
+      [
+       80.22999999999999,
+       13.133333333333333
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "zone_id": "Z-018",
+    "neighbourhood": "Triplicane",
+    "severity": 77.0,
+    "population_risk": 77.0,
+    "vulnerability": 54.0,
+    "accessibility": 24.0,
+    "confidence": 44.0,
+    "reports_count": 2,
+    "incident_type": "Flooding - Rising Water",
+    "flood_extent": 0.85,
+    "estimated_population": 5004,
+    "golden_hour_score": 60,
+    "priority_class": "Medium",
+    "manual_override": false,
+    "last_updated": "2026-09-06T13:20:51.649909+00:00",
+    "urgency": 55.0,
+    "breakdown": {
+     "populationRisk": 18,
+     "urgency": 13,
+     "vulnerability": 10,
+     "severity": 13,
+     "confidence": 5,
+     "accessibility": 2
+    },
+    "silent_zone": true
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       80.27499999999999,
+       13.133333333333333
+      ],
+      [
+       80.32,
+       13.133333333333333
+      ],
+      [
+       80.32,
+       13.075
+      ],
+      [
+       80.27499999999999,
+       13.075
+      ],
+      [
+       80.27499999999999,
+       13.133333333333333
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "zone_id": "Z-019",
+    "neighbourhood": "Kotturpuram",
+    "severity": 78.0,
+    "population_risk": 68.0,
+    "vulnerability": 54.0,
+    "accessibility": 18.0,
+    "confidence": 62.0,
+    "reports_count": 6,
+    "incident_type": "Flooding - Rising Water",
+    "flood_extent": 0.85,
+    "estimated_population": 10690,
+    "golden_hour_score": 60,
+    "priority_class": "Medium",
+    "manual_override": false,
+    "last_updated": "2026-09-06T13:20:51.649909+00:00",
+    "urgency": 55.0,
+    "breakdown": {
+     "populationRisk": 16,
+     "urgency": 13,
+     "vulnerability": 10,
+     "severity": 13,
+     "confidence": 7,
+     "accessibility": 1
+    },
+    "silent_zone": false
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       80.05,
+       13.075
+      ],
+      [
+       80.095,
+       13.075
+      ],
+      [
+       80.095,
+       13.016666666666666
+      ],
+      [
+       80.05,
+       13.016666666666666
+      ],
+      [
+       80.05,
+       13.075
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "zone_id": "Z-020",
+    "neighbourhood": "Adyar",
+    "severity": 62.0,
+    "population_risk": 61.0,
+    "vulnerability": 49.0,
+    "accessibility": 37.0,
+    "confidence": 89.0,
+    "reports_count": 2,
+    "incident_type": "Stranded on Rooftop",
+    "flood_extent": 0.65,
+    "estimated_population": 20690,
+    "golden_hour_score": 62,
+    "priority_class": "Medium",
+    "manual_override": false,
+    "last_updated": "2026-09-06T13:20:51.649909+00:00",
+    "urgency": 70.0,
+    "breakdown": {
+     "populationRisk": 15,
+     "urgency": 16,
+     "vulnerability": 9,
+     "severity": 11,
+     "confidence": 10,
+     "accessibility": 3
+    },
+    "silent_zone": false
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       80.095,
+       13.075
+      ],
+      [
+       80.14,
+       13.075
+      ],
+      [
+       80.14,
+       13.016666666666666
+      ],
+      [
+       80.095,
+       13.016666666666666
+      ],
+      [
+       80.095,
+       13.075
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "zone_id": "Z-021",
+    "neighbourhood": "Guindy",
+    "severity": 60.0,
+    "population_risk": 63.0,
+    "vulnerability": 49.0,
+    "accessibility": 47.0,
+    "confidence": 91.0,
+    "reports_count": 8,
+    "incident_type": "Medical Emergency",
+    "flood_extent": 0.65,
+    "estimated_population": 16065,
+    "golden_hour_score": 66,
+    "priority_class": "High",
+    "manual_override": false,
+    "last_updated": "2026-09-06T13:20:51.649909+00:00",
+    "urgency": 80.0,
+    "breakdown": {
+     "populationRisk": 15,
+     "urgency": 18,
+     "vulnerability": 9,
+     "severity": 10,
+     "confidence": 10,
+     "accessibility": 3
+    },
+    "silent_zone": false
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       80.14,
+       13.075
+      ],
+      [
+       80.185,
+       13.075
+      ],
+      [
+       80.185,
+       13.016666666666666
+      ],
+      [
+       80.14,
+       13.016666666666666
+      ],
+      [
+       80.14,
+       13.075
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "zone_id": "Z-022",
+    "neighbourhood": "Velachery",
+    "severity": 82.0,
+    "population_risk": 81.0,
+    "vulnerability": 59.0,
+    "accessibility": 42.0,
+    "confidence": 43.0,
+    "reports_count": 9,
+    "incident_type": "Trapped Under Rubble",
+    "flood_extent": 0.85,
+    "estimated_population": 8192,
+    "golden_hour_score": 73,
+    "priority_class": "High",
+    "manual_override": false,
+    "last_updated": "2026-09-06T13:20:51.649909+00:00",
+    "urgency": 92.0,
+    "breakdown": {
+     "populationRisk": 19,
+     "urgency": 21,
+     "vulnerability": 11,
+     "severity": 14,
+     "confidence": 5,
+     "accessibility": 3
+    },
+    "silent_zone": false
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       80.185,
+       13.075
+      ],
+      [
+       80.23,
+       13.075
+      ],
+      [
+       80.23,
+       13.016666666666666
+      ],
+      [
+       80.185,
+       13.016666666666666
+      ],
+      [
+       80.185,
+       13.075
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "zone_id": "Z-023",
+    "neighbourhood": "Perungudi",
+    "severity": 64.0,
+    "population_risk": 43.0,
+    "vulnerability": 36.0,
+    "accessibility": 54.0,
+    "confidence": 52.0,
+    "reports_count": 1,
+    "incident_type": "Property Damage",
+    "flood_extent": 0.65,
+    "estimated_population": 5222,
+    "golden_hour_score": 45,
+    "priority_class": "Medium",
+    "manual_override": false,
+    "last_updated": "2026-09-06T13:20:51.649909+00:00",
+    "urgency": 35.0,
+    "breakdown": {
+     "populationRisk": 10,
+     "urgency": 8,
+     "vulnerability": 6,
+     "severity": 11,
+     "confidence": 6,
+     "accessibility": 4
+    },
+    "silent_zone": false
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       80.22999999999999,
+       13.075
+      ],
+      [
+       80.27499999999999,
+       13.075
+      ],
+      [
+       80.27499999999999,
+       13.016666666666666
+      ],
+      [
+       80.22999999999999,
+       13.016666666666666
+      ],
+      [
+       80.22999999999999,
+       13.075
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "zone_id": "Z-024",
+    "neighbourhood": "Tharamani",
+    "severity": 85.0,
+    "population_risk": 73.0,
+    "vulnerability": 56.0,
+    "accessibility": 47.0,
+    "confidence": 47.0,
+    "reports_count": 11,
+    "incident_type": "Flooding - Rising Water",
+    "flood_extent": 0.95,
+    "estimated_population": 14888,
+    "golden_hour_score": 63,
+    "priority_class": "Medium",
+    "manual_override": false,
+    "last_updated": "2026-09-06T13:20:51.649909+00:00",
+    "urgency": 55.0,
+    "breakdown": {
+     "populationRisk": 18,
+     "urgency": 13,
+     "vulnerability": 10,
+     "severity": 14,
+     "confidence": 5,
+     "accessibility": 3
+    },
+    "silent_zone": false
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       80.27499999999999,
+       13.075
+      ],
+      [
+       80.32,
+       13.075
+      ],
+      [
+       80.32,
+       13.016666666666666
+      ],
+      [
+       80.27499999999999,
+       13.016666666666666
+      ],
+      [
+       80.27499999999999,
+       13.075
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "zone_id": "Z-025",
+    "neighbourhood": "St. Thomas Mount",
+    "severity": 47.0,
+    "population_risk": 63.0,
+    "vulnerability": 50.0,
+    "accessibility": 50.0,
+    "confidence": 47.0,
+    "reports_count": 1,
+    "incident_type": "Flooding - Rising Water",
+    "flood_extent": 0.45,
+    "estimated_population": 7608,
+    "golden_hour_score": 53,
+    "priority_class": "Medium",
+    "manual_override": false,
+    "last_updated": "2026-09-06T13:20:51.649909+00:00",
+    "urgency": 55.0,
+    "breakdown": {
+     "populationRisk": 15,
+     "urgency": 13,
+     "vulnerability": 9,
+     "severity": 8,
+     "confidence": 5,
+     "accessibility": 4
+    },
+    "silent_zone": false
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       80.05,
+       13.016666666666667
+      ],
+      [
+       80.095,
+       13.016666666666667
+      ],
+      [
+       80.095,
+       12.958333333333334
+      ],
+      [
+       80.05,
+       12.958333333333334
+      ],
+      [
+       80.05,
+       13.016666666666667
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "zone_id": "Z-026",
+    "neighbourhood": "Pallavaram",
+    "severity": 62.0,
+    "population_risk": 60.0,
+    "vulnerability": 52.0,
+    "accessibility": 27.0,
+    "confidence": 65.0,
+    "reports_count": 8,
+    "incident_type": "Stranded on Rooftop",
+    "flood_extent": 0.65,
+    "estimated_population": 16234,
+    "golden_hour_score": 59,
+    "priority_class": "Medium",
+    "manual_override": false,
+    "last_updated": "2026-09-06T13:20:51.649909+00:00",
+    "urgency": 70.0,
+    "breakdown": {
+     "populationRisk": 14,
+     "urgency": 16,
+     "vulnerability": 9,
+     "severity": 11,
+     "confidence": 7,
+     "accessibility": 2
+    },
+    "silent_zone": false
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       80.095,
+       13.016666666666667
+      ],
+      [
+       80.14,
+       13.016666666666667
+      ],
+      [
+       80.14,
+       12.958333333333334
+      ],
+      [
+       80.095,
+       12.958333333333334
+      ],
+      [
+       80.095,
+       13.016666666666667
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "zone_id": "Z-027",
+    "neighbourhood": "Medavakkam",
+    "severity": 60.0,
+    "population_risk": 61.0,
+    "vulnerability": 39.0,
+    "accessibility": 65.0,
+    "confidence": 71.0,
+    "reports_count": 2,
+    "incident_type": "Medical Emergency",
+    "flood_extent": 0.65,
+    "estimated_population": 14644,
+    "golden_hour_score": 63,
+    "priority_class": "Medium",
+    "manual_override": false,
+    "last_updated": "2026-09-06T13:20:51.649909+00:00",
+    "urgency": 80.0,
+    "breakdown": {
+     "populationRisk": 15,
+     "urgency": 18,
+     "vulnerability": 7,
+     "severity": 10,
+     "confidence": 8,
+     "accessibility": 5
+    },
+    "silent_zone": false
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       80.14,
+       13.016666666666667
+      ],
+      [
+       80.185,
+       13.016666666666667
+      ],
+      [
+       80.185,
+       12.958333333333334
+      ],
+      [
+       80.14,
+       12.958333333333334
+      ],
+      [
+       80.14,
+       13.016666666666667
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "zone_id": "Z-028",
+    "neighbourhood": "Pallikaranai",
+    "severity": 48.0,
+    "population_risk": 40.0,
+    "vulnerability": 33.0,
+    "accessibility": 49.0,
+    "confidence": 85.0,
+    "reports_count": 1,
+    "incident_type": "Trapped Under Rubble",
+    "flood_extent": 0.45,
+    "estimated_population": 4486,
+    "golden_hour_score": 58,
+    "priority_class": "Medium",
+    "manual_override": false,
+    "last_updated": "2026-09-06T13:20:51.649909+00:00",
+    "urgency": 92.0,
+    "breakdown": {
+     "populationRisk": 10,
+     "urgency": 21,
+     "vulnerability": 6,
+     "severity": 8,
+     "confidence": 9,
+     "accessibility": 3
+    },
+    "silent_zone": false
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       80.185,
+       13.016666666666667
+      ],
+      [
+       80.23,
+       13.016666666666667
+      ],
+      [
+       80.23,
+       12.958333333333334
+      ],
+      [
+       80.185,
+       12.958333333333334
+      ],
+      [
+       80.185,
+       13.016666666666667
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "zone_id": "Z-029",
+    "neighbourhood": "Sholinganallur",
+    "severity": 40.0,
+    "population_risk": 48.0,
+    "vulnerability": 36.0,
+    "accessibility": 72.0,
+    "confidence": 47.0,
+    "reports_count": 2,
+    "incident_type": "Property Damage",
+    "flood_extent": 0.35,
+    "estimated_population": 14676,
+    "golden_hour_score": 43,
+    "priority_class": "Medium",
+    "manual_override": false,
+    "last_updated": "2026-09-06T13:20:51.649909+00:00",
+    "urgency": 35.0,
+    "breakdown": {
+     "populationRisk": 12,
+     "urgency": 8,
+     "vulnerability": 6,
+     "severity": 7,
+     "confidence": 5,
+     "accessibility": 5
+    },
+    "silent_zone": false
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       80.22999999999999,
+       13.016666666666667
+      ],
+      [
+       80.27499999999999,
+       13.016666666666667
+      ],
+      [
+       80.27499999999999,
+       12.958333333333334
+      ],
+      [
+       80.22999999999999,
+       12.958333333333334
+      ],
+      [
+       80.22999999999999,
+       13.016666666666667
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "zone_id": "Z-030",
+    "neighbourhood": "Karapakkam",
+    "severity": 40.0,
+    "population_risk": 57.0,
+    "vulnerability": 46.0,
+    "accessibility": 63.0,
+    "confidence": 72.0,
+    "reports_count": 7,
+    "incident_type": "Flooding - Rising Water",
+    "flood_extent": 0.35,
+    "estimated_population": 13148,
+    "golden_hour_score": 54,
+    "priority_class": "Medium",
+    "manual_override": false,
+    "last_updated": "2026-09-06T13:20:51.649909+00:00",
+    "urgency": 55.0,
+    "breakdown": {
+     "populationRisk": 14,
+     "urgency": 13,
+     "vulnerability": 8,
+     "severity": 7,
+     "confidence": 8,
+     "accessibility": 4
+    },
+    "silent_zone": false
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       80.27499999999999,
+       13.016666666666667
+      ],
+      [
+       80.32,
+       13.016666666666667
+      ],
+      [
+       80.32,
+       12.958333333333334
+      ],
+      [
+       80.27499999999999,
+       12.958333333333334
+      ],
+      [
+       80.27499999999999,
+       13.016666666666667
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "zone_id": "Z-031",
+    "neighbourhood": "Tambaram",
+    "severity": 82.0,
+    "population_risk": 71.0,
+    "vulnerability": 47.0,
+    "accessibility": 48.0,
+    "confidence": 61.0,
+    "reports_count": 8,
+    "incident_type": "Flooding - Rising Water",
+    "flood_extent": 0.85,
+    "estimated_population": 16205,
+    "golden_hour_score": 62,
+    "priority_class": "Medium",
+    "manual_override": false,
+    "last_updated": "2026-09-06T13:20:51.649909+00:00",
+    "urgency": 55.0,
+    "breakdown": {
+     "populationRisk": 17,
+     "urgency": 13,
+     "vulnerability": 8,
+     "severity": 14,
+     "confidence": 7,
+     "accessibility": 3
+    },
+    "silent_zone": false
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       80.05,
+       12.958333333333334
+      ],
+      [
+       80.095,
+       12.958333333333334
+      ],
+      [
+       80.095,
+       12.9
+      ],
+      [
+       80.05,
+       12.9
+      ],
+      [
+       80.05,
+       12.958333333333334
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "zone_id": "Z-032",
+    "neighbourhood": "Chromepet",
+    "severity": 77.0,
+    "population_risk": 55.0,
+    "vulnerability": 42.0,
+    "accessibility": 42.0,
+    "confidence": 70.0,
+    "reports_count": 7,
+    "incident_type": "Stranded on Rooftop",
+    "flood_extent": 0.85,
+    "estimated_population": 16956,
+    "golden_hour_score": 61,
+    "priority_class": "Medium",
+    "manual_override": false,
+    "last_updated": "2026-09-06T13:20:51.649909+00:00",
+    "urgency": 70.0,
+    "breakdown": {
+     "populationRisk": 13,
+     "urgency": 16,
+     "vulnerability": 8,
+     "severity": 13,
+     "confidence": 8,
+     "accessibility": 3
+    },
+    "silent_zone": false
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       80.095,
+       12.958333333333334
+      ],
+      [
+       80.14,
+       12.958333333333334
+      ],
+      [
+       80.14,
+       12.9
+      ],
+      [
+       80.095,
+       12.9
+      ],
+      [
+       80.095,
+       12.958333333333334
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "zone_id": "Z-033",
+    "neighbourhood": "Selaiyur",
+    "severity": 84.0,
+    "population_risk": 74.0,
+    "vulnerability": 65.0,
+    "accessibility": 19.0,
+    "confidence": 96.0,
+    "reports_count": 4,
+    "incident_type": "Medical Emergency",
+    "flood_extent": 0.95,
+    "estimated_population": 20606,
+    "golden_hour_score": 74,
+    "priority_class": "High",
+    "manual_override": false,
+    "last_updated": "2026-09-06T13:20:51.649909+00:00",
+    "urgency": 80.0,
+    "breakdown": {
+     "populationRisk": 18,
+     "urgency": 18,
+     "vulnerability": 12,
+     "severity": 14,
+     "confidence": 11,
+     "accessibility": 1
+    },
+    "silent_zone": false
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       80.14,
+       12.958333333333334
+      ],
+      [
+       80.185,
+       12.958333333333334
+      ],
+      [
+       80.185,
+       12.9
+      ],
+      [
+       80.14,
+       12.9
+      ],
+      [
+       80.14,
+       12.958333333333334
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "zone_id": "Z-034",
+    "neighbourhood": "Kovilambakkam",
+    "severity": 82.0,
+    "population_risk": 63.0,
+    "vulnerability": 43.0,
+    "accessibility": 55.0,
+    "confidence": 86.0,
+    "reports_count": 9,
+    "incident_type": "Trapped Under Rubble",
+    "flood_extent": 0.85,
+    "estimated_population": 2626,
+    "golden_hour_score": 71,
+    "priority_class": "High",
+    "manual_override": false,
+    "last_updated": "2026-09-06T13:20:51.649909+00:00",
+    "urgency": 92.0,
+    "breakdown": {
+     "populationRisk": 15,
+     "urgency": 21,
+     "vulnerability": 8,
+     "severity": 14,
+     "confidence": 9,
+     "accessibility": 4
+    },
+    "silent_zone": false
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       80.185,
+       12.958333333333334
+      ],
+      [
+       80.23,
+       12.958333333333334
+      ],
+      [
+       80.23,
+       12.9
+      ],
+      [
+       80.185,
+       12.9
+      ],
+      [
+       80.185,
+       12.958333333333334
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "zone_id": "Z-035",
+    "neighbourhood": "Nanmangalam",
+    "severity": 84.0,
+    "population_risk": 73.0,
+    "vulnerability": 52.0,
+    "accessibility": 50.0,
+    "confidence": 84.0,
+    "reports_count": 5,
+    "incident_type": "Property Damage",
+    "flood_extent": 0.95,
+    "estimated_population": 14342,
+    "golden_hour_score": 62,
+    "priority_class": "Medium",
+    "manual_override": false,
+    "last_updated": "2026-09-06T13:20:51.649909+00:00",
+    "urgency": 35.0,
+    "breakdown": {
+     "populationRisk": 18,
+     "urgency": 8,
+     "vulnerability": 9,
+     "severity": 14,
+     "confidence": 9,
+     "accessibility": 4
+    },
+    "silent_zone": false
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       80.22999999999999,
+       12.958333333333334
+      ],
+      [
+       80.27499999999999,
+       12.958333333333334
+      ],
+      [
+       80.27499999999999,
+       12.9
+      ],
+      [
+       80.22999999999999,
+       12.9
+      ],
+      [
+       80.22999999999999,
+       12.958333333333334
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "zone_id": "Z-036",
+    "neighbourhood": "Medavakkam South",
+    "severity": 47.0,
+    "population_risk": 60.0,
+    "vulnerability": 46.0,
+    "accessibility": 67.0,
+    "confidence": 72.0,
+    "reports_count": 8,
+    "incident_type": "Flooding - Rising Water",
+    "flood_extent": 0.45,
+    "estimated_population": 18858,
+    "golden_hour_score": 56,
+    "priority_class": "Medium",
+    "manual_override": false,
+    "last_updated": "2026-09-06T13:20:51.649909+00:00",
+    "urgency": 55.0,
+    "breakdown": {
+     "populationRisk": 14,
+     "urgency": 13,
+     "vulnerability": 8,
+     "severity": 8,
+     "confidence": 8,
+     "accessibility": 5
+    },
+    "silent_zone": false
+   },
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       80.27499999999999,
+       12.958333333333334
+      ],
+      [
+       80.32,
+       12.958333333333334
+      ],
+      [
+       80.32,
+       12.9
+      ],
+      [
+       80.27499999999999,
+       12.9
+      ],
+      [
+       80.27499999999999,
+       12.958333333333334
+      ]
+     ]
+    ]
+   }
+  }
+ ]
+}

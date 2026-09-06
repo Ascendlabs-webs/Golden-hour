@@ -1,0 +1,209 @@
+{
+  "product_id": "S2C_MSIL2A_20260901T045701_R119_T44PLV_20260901T094009",
+  "provider": "planetary-computer",
+  "satellite": "Sentinel-2",
+  "collection": "sentinel-2-l2a",
+  "acquisition_time": "2026-09-01T04:57:01.025000Z",
+  "cloud_cover": 0.791918,
+  "bbox": [
+    79.2147144,
+    12.5695194,
+    80.1696331,
+    13.5670592
+  ],
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          79.2147144,
+          12.5695194
+        ],
+        [
+          79.2457307,
+          12.7090567
+        ],
+        [
+          79.2787917,
+          12.8576276
+        ],
+        [
+          79.3118637,
+          13.0061832
+        ],
+        [
+          79.3449041,
+          13.1547404
+        ],
+        [
+          79.3779163,
+          13.3032846
+        ],
+        [
+          79.4113482,
+          13.4516837
+        ],
+        [
+          79.4358516,
+          13.5631358
+        ],
+        [
+          80.166307,
+          13.5670592
+        ],
+        [
+          80.1696331,
+          12.5742799
+        ],
+        [
+          79.2147144,
+          12.5695194
+        ]
+      ]
+    ]
+  },
+  "preview_href": "https://planetarycomputer.microsoft.com/api/data/v1/item/preview.png?collection=sentinel-2-l2a&item=S2C_MSIL2A_20260901T045701_R119_T44PLV_20260901T094009&assets=visual&asset_bidx=visual%7C1%2C2%2C3&nodata=0&format=png",
+  "assets": {
+    "AOT": {
+      "href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/44/P/LV/2026/09/01/S2C_MSIL2A_20260901T045701_N0512_R119_T44PLV_20260901T094009.SAFE/GRANULE/L2A_T44PLV_A010385_20260901T051153/IMG_DATA/R10m/T44PLV_20260901T045701_AOT_10m.tif",
+      "roles": [
+        "data"
+      ]
+    },
+    "B01": {
+      "href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/44/P/LV/2026/09/01/S2C_MSIL2A_20260901T045701_N0512_R119_T44PLV_20260901T094009.SAFE/GRANULE/L2A_T44PLV_A010385_20260901T051153/IMG_DATA/R60m/T44PLV_20260901T045701_B01_60m.tif",
+      "roles": [
+        "data"
+      ]
+    },
+    "B02": {
+      "href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/44/P/LV/2026/09/01/S2C_MSIL2A_20260901T045701_N0512_R119_T44PLV_20260901T094009.SAFE/GRANULE/L2A_T44PLV_A010385_20260901T051153/IMG_DATA/R10m/T44PLV_20260901T045701_B02_10m.tif",
+      "roles": [
+        "data"
+      ]
+    },
+    "B03": {
+      "href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/44/P/LV/2026/09/01/S2C_MSIL2A_20260901T045701_N0512_R119_T44PLV_20260901T094009.SAFE/GRANULE/L2A_T44PLV_A010385_20260901T051153/IMG_DATA/R10m/T44PLV_20260901T045701_B03_10m.tif",
+      "roles": [
+        "data"
+      ]
+    },
+    "B04": {
+      "href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/44/P/LV/2026/09/01/S2C_MSIL2A_20260901T045701_N0512_R119_T44PLV_20260901T094009.SAFE/GRANULE/L2A_T44PLV_A010385_20260901T051153/IMG_DATA/R10m/T44PLV_20260901T045701_B04_10m.tif",
+      "roles": [
+        "data"
+      ]
+    },
+    "B05": {
+      "href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/44/P/LV/2026/09/01/S2C_MSIL2A_20260901T045701_N0512_R119_T44PLV_20260901T094009.SAFE/GRANULE/L2A_T44PLV_A010385_20260901T051153/IMG_DATA/R20m/T44PLV_20260901T045701_B05_20m.tif",
+      "roles": [
+        "data"
+      ]
+    },
+    "B06": {
+      "href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/44/P/LV/2026/09/01/S2C_MSIL2A_20260901T045701_N0512_R119_T44PLV_20260901T094009.SAFE/GRANULE/L2A_T44PLV_A010385_20260901T051153/IMG_DATA/R20m/T44PLV_20260901T045701_B06_20m.tif",
+      "roles": [
+        "data"
+      ]
+    },
+    "B07": {
+      "href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/44/P/LV/2026/09/01/S2C_MSIL2A_20260901T045701_N0512_R119_T44PLV_20260901T094009.SAFE/GRANULE/L2A_T44PLV_A010385_20260901T051153/IMG_DATA/R20m/T44PLV_20260901T045701_B07_20m.tif",
+      "roles": [
+        "data"
+      ]
+    },
+    "B08": {
+      "href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/44/P/LV/2026/09/01/S2C_MSIL2A_20260901T045701_N0512_R119_T44PLV_20260901T094009.SAFE/GRANULE/L2A_T44PLV_A010385_20260901T051153/IMG_DATA/R10m/T44PLV_20260901T045701_B08_10m.tif",
+      "roles": [
+        "data"
+      ]
+    },
+    "B09": {
+      "href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/44/P/LV/2026/09/01/S2C_MSIL2A_20260901T045701_N0512_R119_T44PLV_20260901T094009.SAFE/GRANULE/L2A_T44PLV_A010385_20260901T051153/IMG_DATA/R60m/T44PLV_20260901T045701_B09_60m.tif",
+      "roles": [
+        "data"
+      ]
+    },
+    "B11": {
+      "href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/44/P/LV/2026/09/01/S2C_MSIL2A_20260901T045701_N0512_R119_T44PLV_20260901T094009.SAFE/GRANULE/L2A_T44PLV_A010385_20260901T051153/IMG_DATA/R20m/T44PLV_20260901T045701_B11_20m.tif",
+      "roles": [
+        "data"
+      ]
+    },
+    "B12": {
+      "href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/44/P/LV/2026/09/01/S2C_MSIL2A_20260901T045701_N0512_R119_T44PLV_20260901T094009.SAFE/GRANULE/L2A_T44PLV_A010385_20260901T051153/IMG_DATA/R20m/T44PLV_20260901T045701_B12_20m.tif",
+      "roles": [
+        "data"
+      ]
+    },
+    "B8A": {
+      "href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/44/P/LV/2026/09/01/S2C_MSIL2A_20260901T045701_N0512_R119_T44PLV_20260901T094009.SAFE/GRANULE/L2A_T44PLV_A010385_20260901T051153/IMG_DATA/R20m/T44PLV_20260901T045701_B8A_20m.tif",
+      "roles": [
+        "data"
+      ]
+    },
+    "SCL": {
+      "href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/44/P/LV/2026/09/01/S2C_MSIL2A_20260901T045701_N0512_R119_T44PLV_20260901T094009.SAFE/GRANULE/L2A_T44PLV_A010385_20260901T051153/IMG_DATA/R20m/T44PLV_20260901T045701_SCL_20m.tif",
+      "roles": [
+        "data"
+      ]
+    },
+    "WVP": {
+      "href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/44/P/LV/2026/09/01/S2C_MSIL2A_20260901T045701_N0512_R119_T44PLV_20260901T094009.SAFE/GRANULE/L2A_T44PLV_A010385_20260901T051153/IMG_DATA/R10m/T44PLV_20260901T045701_WVP_10m.tif",
+      "roles": [
+        "data"
+      ]
+    },
+    "visual": {
+      "href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/44/P/LV/2026/09/01/S2C_MSIL2A_20260901T045701_N0512_R119_T44PLV_20260901T094009.SAFE/GRANULE/L2A_T44PLV_A010385_20260901T051153/IMG_DATA/R10m/T44PLV_20260901T045701_TCI_10m.tif",
+      "roles": [
+        "data"
+      ]
+    },
+    "safe-manifest": {
+      "href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/44/P/LV/2026/09/01/S2C_MSIL2A_20260901T045701_N0512_R119_T44PLV_20260901T094009.SAFE/manifest.safe",
+      "roles": [
+        "metadata"
+      ]
+    },
+    "granule-metadata": {
+      "href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/44/P/LV/2026/09/01/S2C_MSIL2A_20260901T045701_N0512_R119_T44PLV_20260901T094009.SAFE/GRANULE/L2A_T44PLV_A010385_20260901T051153/MTD_TL.xml",
+      "roles": [
+        "metadata"
+      ]
+    },
+    "inspire-metadata": {
+      "href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/44/P/LV/2026/09/01/S2C_MSIL2A_20260901T045701_N0512_R119_T44PLV_20260901T094009.SAFE/INSPIRE.xml",
+      "roles": [
+        "metadata"
+      ]
+    },
+    "product-metadata": {
+      "href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/44/P/LV/2026/09/01/S2C_MSIL2A_20260901T045701_N0512_R119_T44PLV_20260901T094009.SAFE/MTD_MSIL2A.xml",
+      "roles": [
+        "metadata"
+      ]
+    },
+    "datastrip-metadata": {
+      "href": "https://sentinel2l2a01.blob.core.windows.net/sentinel2-l2/44/P/LV/2026/09/01/S2C_MSIL2A_20260901T045701_N0512_R119_T44PLV_20260901T094009.SAFE/DATASTRIP/DS_2CPS_20260901T094009_S20260901T051153/MTD_DS.xml",
+      "roles": [
+        "metadata"
+      ]
+    },
+    "tilejson": {
+      "href": "https://planetarycomputer.microsoft.com/api/data/v1/item/tilejson.json?collection=sentinel-2-l2a&item=S2C_MSIL2A_20260901T045701_R119_T44PLV_20260901T094009&assets=visual&asset_bidx=visual%7C1%2C2%2C3&nodata=0&format=png",
+      "roles": [
+        "tiles"
+      ]
+    },
+    "rendered_preview": {
+      "href": "https://planetarycomputer.microsoft.com/api/data/v1/item/preview.png?collection=sentinel-2-l2a&item=S2C_MSIL2A_20260901T045701_R119_T44PLV_20260901T094009&assets=visual&asset_bidx=visual%7C1%2C2%2C3&nodata=0&format=png",
+      "roles": [
+        "overview"
+      ]
+    }
+  },
+  "searched_at": "2026-09-06T14:10:55.767341+00:00",
+  "preview_cached_at": "2026-09-06T14:10:59.444756+00:00",
+  "preview_bytes": 2717709
+}

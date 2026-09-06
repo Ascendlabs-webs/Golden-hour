@@ -1,0 +1,412 @@
+{
+  "analysis_id": "A-be38b0ee",
+  "created_at": "2026-09-06T14:10:59.934941+00:00",
+  "mode": "live",
+  "s1_product": "S1D_IW_GRDH_1SDV_20260829T003126_20260829T003151_004333_007FEA_rtc",
+  "s1_pre_product": "S1D_IW_GRDH_1SDV_20260805T003124_20260805T003149_003983_0073B9_rtc",
+  "s2_product": "S2C_MSIL2A_20260901T045701_R119_T44PLV_20260901T094009",
+  "bbox": [
+    80.05,
+    12.9,
+    80.32,
+    13.25
+  ],
+  "metrics": {
+    "Z-001": {
+      "flood_extent_percent": 70.0,
+      "flood_extent": 0.7,
+      "flood_severity": 70,
+      "change_score": 0.0,
+      "satellite_confidence": 76.0,
+      "evidence": [
+        "sentinel-1",
+        "sentinel-2"
+      ]
+    },
+    "Z-002": {
+      "flood_extent_percent": 70.0,
+      "flood_extent": 0.7,
+      "flood_severity": 70,
+      "change_score": 0.0,
+      "satellite_confidence": 76.0,
+      "evidence": [
+        "sentinel-1",
+        "sentinel-2"
+      ]
+    },
+    "Z-003": {
+      "flood_extent_percent": 70.0,
+      "flood_extent": 0.7,
+      "flood_severity": 70,
+      "change_score": 0.0,
+      "satellite_confidence": 76.0,
+      "evidence": [
+        "sentinel-1",
+        "sentinel-2"
+      ]
+    },
+    "Z-004": {
+      "flood_extent_percent": 70.0,
+      "flood_extent": 0.7,
+      "flood_severity": 70,
+      "change_score": 0.0,
+      "satellite_confidence": 76.0,
+      "evidence": [
+        "sentinel-1",
+        "sentinel-2"
+      ]
+    },
+    "Z-005": {
+      "flood_extent_percent": 70.0,
+      "flood_extent": 0.7,
+      "flood_severity": 70,
+      "change_score": 0.0,
+      "satellite_confidence": 76.0,
+      "evidence": [
+        "sentinel-1",
+        "sentinel-2"
+      ]
+    },
+    "Z-006": {
+      "flood_extent_percent": 70.0,
+      "flood_extent": 0.7,
+      "flood_severity": 70,
+      "change_score": 0.0,
+      "satellite_confidence": 76.0,
+      "evidence": [
+        "sentinel-1",
+        "sentinel-2"
+      ]
+    },
+    "Z-007": {
+      "flood_extent_percent": 70.0,
+      "flood_extent": 0.7,
+      "flood_severity": 70,
+      "change_score": 0.0,
+      "satellite_confidence": 76.0,
+      "evidence": [
+        "sentinel-1",
+        "sentinel-2"
+      ]
+    },
+    "Z-008": {
+      "flood_extent_percent": 70.0,
+      "flood_extent": 0.7,
+      "flood_severity": 70,
+      "change_score": 0.0,
+      "satellite_confidence": 76.0,
+      "evidence": [
+        "sentinel-1",
+        "sentinel-2"
+      ]
+    },
+    "Z-009": {
+      "flood_extent_percent": 70.0,
+      "flood_extent": 0.7,
+      "flood_severity": 70,
+      "change_score": 0.0,
+      "satellite_confidence": 76.0,
+      "evidence": [
+        "sentinel-1",
+        "sentinel-2"
+      ]
+    },
+    "Z-010": {
+      "flood_extent_percent": 70.0,
+      "flood_extent": 0.7,
+      "flood_severity": 70,
+      "change_score": 0.0,
+      "satellite_confidence": 76.0,
+      "evidence": [
+        "sentinel-1",
+        "sentinel-2"
+      ]
+    },
+    "Z-011": {
+      "flood_extent_percent": 70.0,
+      "flood_extent": 0.7,
+      "flood_severity": 70,
+      "change_score": 0.0,
+      "satellite_confidence": 76.0,
+      "evidence": [
+        "sentinel-1",
+        "sentinel-2"
+      ]
+    },
+    "Z-012": {
+      "flood_extent_percent": 70.0,
+      "flood_extent": 0.7,
+      "flood_severity": 70,
+      "change_score": 0.0,
+      "satellite_confidence": 76.0,
+      "evidence": [
+        "sentinel-1",
+        "sentinel-2"
+      ]
+    },
+    "Z-013": {
+      "flood_extent_percent": 70.0,
+      "flood_extent": 0.7,
+      "flood_severity": 70,
+      "change_score": 0.0,
+      "satellite_confidence": 76.0,
+      "evidence": [
+        "sentinel-1",
+        "sentinel-2"
+      ]
+    },
+    "Z-014": {
+      "flood_extent_percent": 70.0,
+      "flood_extent": 0.7,
+      "flood_severity": 70,
+      "change_score": 0.0,
+      "satellite_confidence": 76.0,
+      "evidence": [
+        "sentinel-1",
+        "sentinel-2"
+      ]
+    },
+    "Z-015": {
+      "flood_extent_percent": 70.0,
+      "flood_extent": 0.7,
+      "flood_severity": 70,
+      "change_score": 0.0,
+      "satellite_confidence": 76.0,
+      "evidence": [
+        "sentinel-1",
+        "sentinel-2"
+      ]
+    },
+    "Z-016": {
+      "flood_extent_percent": 70.0,
+      "flood_extent": 0.7,
+      "flood_severity": 70,
+      "change_score": 0.0,
+      "satellite_confidence": 76.0,
+      "evidence": [
+        "sentinel-1",
+        "sentinel-2"
+      ]
+    },
+    "Z-017": {
+      "flood_extent_percent": 70.0,
+      "flood_extent": 0.7,
+      "flood_severity": 70,
+      "change_score": 0.0,
+      "satellite_confidence": 76.0,
+      "evidence": [
+        "sentinel-1",
+        "sentinel-2"
+      ]
+    },
+    "Z-018": {
+      "flood_extent_percent": 70.0,
+      "flood_extent": 0.7,
+      "flood_severity": 70,
+      "change_score": 0.0,
+      "satellite_confidence": 76.0,
+      "evidence": [
+        "sentinel-1",
+        "sentinel-2"
+      ]
+    },
+    "Z-019": {
+      "flood_extent_percent": 70.0,
+      "flood_extent": 0.7,
+      "flood_severity": 70,
+      "change_score": 0.0,
+      "satellite_confidence": 76.0,
+      "evidence": [
+        "sentinel-1",
+        "sentinel-2"
+      ]
+    },
+    "Z-020": {
+      "flood_extent_percent": 70.0,
+      "flood_extent": 0.7,
+      "flood_severity": 70,
+      "change_score": 0.0,
+      "satellite_confidence": 76.0,
+      "evidence": [
+        "sentinel-1",
+        "sentinel-2"
+      ]
+    },
+    "Z-021": {
+      "flood_extent_percent": 70.0,
+      "flood_extent": 0.7,
+      "flood_severity": 70,
+      "change_score": 0.0,
+      "satellite_confidence": 76.0,
+      "evidence": [
+        "sentinel-1",
+        "sentinel-2"
+      ]
+    },
+    "Z-022": {
+      "flood_extent_percent": 70.0,
+      "flood_extent": 0.7,
+      "flood_severity": 70,
+      "change_score": 0.0,
+      "satellite_confidence": 76.0,
+      "evidence": [
+        "sentinel-1",
+        "sentinel-2"
+      ]
+    },
+    "Z-023": {
+      "flood_extent_percent": 70.0,
+      "flood_extent": 0.7,
+      "flood_severity": 70,
+      "change_score": 0.0,
+      "satellite_confidence": 76.0,
+      "evidence": [
+        "sentinel-1",
+        "sentinel-2"
+      ]
+    },
+    "Z-024": {
+      "flood_extent_percent": 70.0,
+      "flood_extent": 0.7,
+      "flood_severity": 70,
+      "change_score": 0.0,
+      "satellite_confidence": 76.0,
+      "evidence": [
+        "sentinel-1",
+        "sentinel-2"
+      ]
+    },
+    "Z-025": {
+      "flood_extent_percent": 70.0,
+      "flood_extent": 0.7,
+      "flood_severity": 70,
+      "change_score": 0.0,
+      "satellite_confidence": 76.0,
+      "evidence": [
+        "sentinel-1",
+        "sentinel-2"
+      ]
+    },
+    "Z-026": {
+      "flood_extent_percent": 70.0,
+      "flood_extent": 0.7,
+      "flood_severity": 70,
+      "change_score": 0.0,
+      "satellite_confidence": 76.0,
+      "evidence": [
+        "sentinel-1",
+        "sentinel-2"
+      ]
+    },
+    "Z-027": {
+      "flood_extent_percent": 70.0,
+      "flood_extent": 0.7,
+      "flood_severity": 70,
+      "change_score": 0.0,
+      "satellite_confidence": 76.0,
+      "evidence": [
+        "sentinel-1",
+        "sentinel-2"
+      ]
+    },
+    "Z-028": {
+      "flood_extent_percent": 70.0,
+      "flood_extent": 0.7,
+      "flood_severity": 70,
+      "change_score": 0.0,
+      "satellite_confidence": 76.0,
+      "evidence": [
+        "sentinel-1",
+        "sentinel-2"
+      ]
+    },
+    "Z-029": {
+      "flood_extent_percent": 70.0,
+      "flood_extent": 0.7,
+      "flood_severity": 70,
+      "change_score": 0.0,
+      "satellite_confidence": 76.0,
+      "evidence": [
+        "sentinel-1",
+        "sentinel-2"
+      ]
+    },
+    "Z-030": {
+      "flood_extent_percent": 70.0,
+      "flood_extent": 0.7,
+      "flood_severity": 70,
+      "change_score": 0.0,
+      "satellite_confidence": 76.0,
+      "evidence": [
+        "sentinel-1",
+        "sentinel-2"
+      ]
+    },
+    "Z-031": {
+      "flood_extent_percent": 70.0,
+      "flood_extent": 0.7,
+      "flood_severity": 70,
+      "change_score": 0.0,
+      "satellite_confidence": 76.0,
+      "evidence": [
+        "sentinel-1",
+        "sentinel-2"
+      ]
+    },
+    "Z-032": {
+      "flood_extent_percent": 70.0,
+      "flood_extent": 0.7,
+      "flood_severity": 70,
+      "change_score": 0.5,
+      "satellite_confidence": 76.1,
+      "evidence": [
+        "sentinel-1",
+        "sentinel-2"
+      ]
+    },
+    "Z-033": {
+      "flood_extent_percent": 70.0,
+      "flood_extent": 0.7,
+      "flood_severity": 70,
+      "change_score": 0.0,
+      "satellite_confidence": 76.0,
+      "evidence": [
+        "sentinel-1",
+        "sentinel-2"
+      ]
+    },
+    "Z-034": {
+      "flood_extent_percent": 70.0,
+      "flood_extent": 0.7,
+      "flood_severity": 70,
+      "change_score": 0.0,
+      "satellite_confidence": 76.0,
+      "evidence": [
+        "sentinel-1",
+        "sentinel-2"
+      ]
+    },
+    "Z-035": {
+      "flood_extent_percent": 70.0,
+      "flood_extent": 0.7,
+      "flood_severity": 70,
+      "change_score": 0.0,
+      "satellite_confidence": 76.0,
+      "evidence": [
+        "sentinel-1",
+        "sentinel-2"
+      ]
+    },
+    "Z-036": {
+      "flood_extent_percent": 70.0,
+      "flood_extent": 0.7,
+      "flood_severity": 70,
+      "change_score": 0.0,
+      "satellite_confidence": 76.0,
+      "evidence": [
+        "sentinel-1",
+        "sentinel-2"
+      ]
+    }
+  }
+}

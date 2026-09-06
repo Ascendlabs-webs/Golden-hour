@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.db
+*.db-journal
+*.log
+server.log
+backend.log
+node_modules/
+frontend/dist/
+data/processed/*.json
+!data/processed/.gitkeep
+.env
+venv/
+.venv/

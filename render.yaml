@@ -1,0 +1,16 @@
+# Render blueprint: one-click backend deploy (free tier OK).
+# Dashboard (Vercel) points VITE_API_URL at the URL Render assigns below.
+services:
+  - type: web
+    name: goldenhour-ai-backend
+    runtime: docker
+    dockerfilePath: ./backend/Dockerfile
+    plan: free
+    healthCheckPath: /api/health
+    envVars:
+      - key: APP_MODE
+        value: demo
+      - key: SATELLITE_SCHEDULER_ENABLED
+        value: "false" # free instances sleep; trigger Live Refresh manually instead
+      - key: CORS_ORIGINS
+        value: "*"
